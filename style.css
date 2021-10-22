@@ -1,0 +1,23 @@
+
+body{
+background-color: white;
+}
+
+#Título {
+margin-left: 18em;
+}
+
+.Vito{
+margin-left: 10em;
+margin-right: 10em;
+border: solid black;
+border-radius: 0.5cm;
+}
+
+.text{
+  margin-left: 1em;
+  margin-right: 2em;
+  border: solid black;
+  border-radius: 0.5cm;
+
+}
